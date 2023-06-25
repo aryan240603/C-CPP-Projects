@@ -1,7 +1,3 @@
-/*name : aryankumar patel
-student id : 103094215
-email id : anpatel34@myseneca.ca
-NFF */
 #define _CRT_SECURE_NO_WARNINGS
 
 
