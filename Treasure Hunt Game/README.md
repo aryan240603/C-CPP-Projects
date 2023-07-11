@@ -1,1 +1,1 @@
-<h1>Treasure HUnt Game</h1>
+<h1>Treasure Hunt Game</h1>
